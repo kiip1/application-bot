@@ -1,0 +1,7 @@
+{
+	"defaultPrefix": "<Bot default prefix here>",
+	"token": "<Bot token here>",
+	"id": "<Bot ID here>",
+	"success": "<Bot success emote ID here>",
+	"fail": "<Bot fail emote ID here>"
+}
